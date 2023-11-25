@@ -7,4 +7,4 @@ This is a simple descop clone of [https://academy.patika.dev](Patika).
 - MySQL
 
 ### Brief Summary
-!(patika)[./patika.gif "Summary"]
+!(patika)[/patika.gif "Summary"]
