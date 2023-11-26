@@ -1,5 +1,5 @@
 # Patika Clone
-This is a simple descop clone of [https://academy.patika.dev](Patika).
+This is a simple descop clone of [Patika](https://academy.patika.dev).
 ## Used Technologies
 - Java
 - Swing
